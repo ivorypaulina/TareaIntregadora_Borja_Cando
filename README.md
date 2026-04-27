@@ -2,8 +2,10 @@
 
 # Integrantes del grupo: 
 - Ivory Cando
-- 
-Curso: GR1
+- Matias Borja
+  
+# Curso: 
+Gr1
 
 ## Descripción del proyecto
 
@@ -59,9 +61,9 @@ Cada cuenta implementa su propio cálculo de interés mensual mediante polimorfi
 
 * Integrante 1:
 
-  - Desarrollo de la clase `SolicitanteSubsidio`
+  - Desarrollo del Sistema de subsidio.
 
 * Integrante 2:
 
-  - Desarrollo de la clase abstracta `CuentaBancaria`
+  - Desarrollo del sistema bancario.
 
